@@ -1,1 +1,1 @@
-print("Não sou banqueiro não ein")
+print("Sou bom demais!")
