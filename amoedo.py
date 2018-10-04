@@ -1,1 +1,1 @@
-print("Sou bom demais!")
+print("Vote 30 no novo")
