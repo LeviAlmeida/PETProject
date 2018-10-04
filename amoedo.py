@@ -1,1 +1,1 @@
-print("Sempre amoedo")
+print("Sempre amoedo meu amigão")
