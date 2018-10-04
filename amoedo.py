@@ -1,0 +1,1 @@
+print("Não sou banqueiro não ein")
