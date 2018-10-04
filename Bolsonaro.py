@@ -1,1 +1,1 @@
-print('São apenas CRIANÇAS.')
+print("São apenas CRIANÇAS.")
