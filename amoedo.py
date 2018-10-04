@@ -1,2 +1,1 @@
-print("Sou bom demais!")
-print("aaaa")
+print("Sempre amoedo")
